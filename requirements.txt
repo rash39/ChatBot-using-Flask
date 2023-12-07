@@ -1,0 +1,8 @@
+pandas 
+tensorflow
+nltk
+pickle
+keras
+Flask
+Flask-Cors
+-e .
